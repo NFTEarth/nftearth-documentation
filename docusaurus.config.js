@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'NFTEarth Docs',
   tagline: 'Buy and Sell NFTs on L2',
-  url: 'https://docs.nftearth.exchange',
+  url: 'https://nftearth.exchange',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -69,7 +69,7 @@ const config = {
             position: 'left',
             label: 'Overview',
           },
-          {to: '/blog', label: 'Knowledge Base', position: 'left'},
+          {to: '/home', label: 'Docs', position: 'left'},
           {
             href: 'https://github.com/nftearth',
             label: 'GitHub',
@@ -104,11 +104,11 @@ const config = {
             ],
           },
           {
-            title: 'More',
+            title: 'dApp',
             items: [
               {
-                label: 'Blog',
-                to: '/blog',
+                label: 'dApp',
+                href: 'https://nftearth.exchange',
               },
               {
                 label: 'GitHub',
