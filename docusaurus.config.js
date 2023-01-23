@@ -69,7 +69,7 @@ const config = {
             position: 'left',
             label: 'Overview',
           },
-          {to: '/home', label: 'Docs', position: 'left'},
+          {to: '/docs/intro', label: 'Docs', position: 'left'},
           {
             href: 'https://github.com/nftearth',
             label: 'GitHub',
