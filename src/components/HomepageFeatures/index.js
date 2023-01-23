@@ -8,17 +8,16 @@ const FeatureList = [
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Layer2 NFT Marketplace
+        Buy and Sell NFTs on L2 Networks like Optimism
       </>
     ),
   },
   {
-    title: 'Global Community',
+    title: 'A Global Community',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        NFTEarth has been created in response to a marketplace closing, has been engineered from the ground up to be a sustainable NFT project that contributes to the long-term success of NFTs on Layer2.
       </>
     ),
   },
@@ -27,7 +26,7 @@ const FeatureList = [
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Layer2 Ethereum networks inherit the security of Ethereum Mainnet and provide a way to significantly reduce transaction costs.
+        Layer2 Ethereum networks inherit the security of Ethereum Mainnet while at the same time provide a way to significantly reduce transaction costs.
       </>
     ),
   },
