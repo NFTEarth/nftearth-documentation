@@ -6,8 +6,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'NFTEarth Documentation',
-  tagline: 'Layer2 NFTs',
+  title: 'NFTEarth Docs',
+  tagline: 'Buy and Sell NFTs on L2',
   url: 'https://docs.nftearth.exchange',
   baseUrl: '/',
   onBrokenLinks: 'throw',
@@ -57,9 +57,9 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'My Site',
+        title: 'NFTEarth',
         logo: {
-          alt: 'My Site Logo',
+          alt: 'NFTEarth',
           src: 'img/logo.svg',
         },
         items: [
@@ -67,9 +67,9 @@ const config = {
             type: 'doc',
             docId: 'intro',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Overview',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
+          {to: '/blog', label: 'Knowledge Base', position: 'left'},
           {
             href: 'https://github.com/nftearth',
             label: 'GitHub',
@@ -94,16 +94,13 @@ const config = {
             items: [
               {
                 label: 'Twitter',
-                href: 'https://https://twitter.com/NFTEarth_L2',
+                href: 'https://twitter.com/NFTEarth_L2',
               },
               {
                 label: 'Discord',
                 href: 'https://discord.gg/nftearth',
               },
-              {
-                label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
-              },
+            
             ],
           },
           {
