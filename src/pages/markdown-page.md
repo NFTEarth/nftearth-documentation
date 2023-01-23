@@ -1,7 +1,7 @@
 ---
-title: Markdown page example
+title: NFTEarth
 ---
 
-# Markdown page example
+# NFTs
 
-You don't need React to write simple standalone pages.
+
