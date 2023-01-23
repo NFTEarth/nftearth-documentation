@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'NFTEarth Docs',
+  title: 'NFTΞarth Docs',
   tagline: 'Buy and Sell NFTs on L2',
   url: 'https://nftearth.exchange',
   baseUrl: '/',
@@ -37,14 +37,14 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://https://github.com/NFTEarth/nftearth-documentation',
+            'https://github.com/NFTEarth/nftearth-documentation',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/https://github.com/NFTEarth/nftearth-documentation',
+            'https://NFTEarth/nftearth-documentation',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -57,7 +57,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'NFTEarth',
+        title: 'NFTΞarth',
         logo: {
           alt: 'NFTEarth',
           src: 'img/logo.svg',
@@ -108,7 +108,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} NFTEarth. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} NFTΞarth. Built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,

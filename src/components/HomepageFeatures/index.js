@@ -17,7 +17,7 @@ const FeatureList = [
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        NFTEarth has been created in response to a marketplace closing, has been engineered from the ground up to be a sustainable NFT project that contributes to the long-term success of NFTs on Layer2.
+        NFTEarth has been created in response to a marketplace closing, and has been engineered from the ground up to be a sustainable NFT project that contributes to the long-term success of NFTs on Layer2.
       </>
     ),
   },
