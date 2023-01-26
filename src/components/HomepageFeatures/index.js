@@ -4,16 +4,16 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Built on Layer2 Ethereum Scaling Networks',
+    title: 'Built on L2 Ethereum Scaling Networks',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Buy and Sell NFTs on L2 Networks like Optimism
+        Buy and Sell NFTs on L2
       </>
     ),
   },
   {
-    title: 'A Global Community',
+    title: 'Global Community',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
